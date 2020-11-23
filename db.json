@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "id": 9,
+      "name": "Pikachu",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Pok%C3%A9mon_Pikachu_art.png",
+      "likes": 0
+    },
+    {
+      "id": 10,
+      "name": "Charmander",
+      "image": "https://cdn.bulbagarden.net/upload/7/73/004Charmander.png",
+      "likes": 0
     }
   ]
 }
